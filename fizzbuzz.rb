@@ -10,4 +10,3 @@ def fizzbuzz(int)
     "Buzz"
     binding.pry
 end
-end
