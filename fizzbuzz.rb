@@ -8,3 +8,4 @@ def fizzbuzz(int)
     "Fizz"
     binding.pry
 end
+end
