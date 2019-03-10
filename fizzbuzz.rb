@@ -6,6 +6,7 @@ require 'pry'
 def fizzbuzz(int)
   if int % 3 ==  0 
     "Fizz"
+  if
     binding.pry
 end
 end
